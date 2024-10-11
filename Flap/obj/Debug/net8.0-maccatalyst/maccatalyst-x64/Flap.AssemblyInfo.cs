@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Flap")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+5ab14dbd29dc7723dcf1dad1e21239ed8c6f57fa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+1c5bfc1b4e13d8a75311c2d33652bb67283e70dd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Flap")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Flap")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
